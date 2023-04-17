@@ -1,0 +1,8 @@
+{
+  "extends": "@antfu",
+  "rules": {
+    "arrow-parens": "off",
+    "@typescript-eslint/no-unused-vars": "off"
+  },
+  "ignorePatterns": "docs/"
+}
